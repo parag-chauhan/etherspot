@@ -1,6 +1,23 @@
-# Getting Started with Create React App
+# Etherspot
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+As a Part of this Project:
+
+1. The user can see their ETH balance
+![image](https://user-images.githubusercontent.com/109526304/203174708-6240d401-183a-48e0-bb37-fd00535ee54a.png)
+
+2. The user can send their ETH balance to another address
+![image](https://user-images.githubusercontent.com/109526304/203174913-a0d763e5-7697-4342-af33-b5d3f1d0844a.png)
+
+
+### Environment Variable
+`REACT_APP_INFURA_NETWORK=goerli`
+
+`REACT_APP_INFURA_API_KEY=<infura-api-key>`
+
+`REACT_APP_SENDER_PRIVATE_KEY=<sender-private-key>`
+
 
 ## Available Scripts
 
